@@ -5,7 +5,6 @@ Displays the commands available for use
 **usage:** `.help`
 
 <p align="center">
-<img alt="help image" src="assets/help-command-v2.png">
 </p>
 
 ### 2. Standings All
@@ -14,7 +13,6 @@ Generates a more _detailed_ table showing goals for, against, matches won and lo
 **usage:** `.standings-all [league code]`
 
 <p align="center">
-<img alt="standings-all image" src="assets/standings-all-v2.png">
 </p>
 
 ### 3. Standings
@@ -23,7 +21,6 @@ Generates the _current standings_ in the requested league.
 **usage:** `.standings [league code]`
 
 <p align="center">
-<img alt="standings image" src="assets/standings-v2.png">
 </p>
 
 ### 4. Fixtures
@@ -36,13 +33,11 @@ Limit restricts the number of fixtures displayed and is by default 5
 #### 4.1 League Fixtures
 
 <p align="center">
-<img alt="League Fixtures image" src="assets/league-fixtures-v2.png">
 </p>
 
 #### 4.2 Team Fixtures
 
 <p align="center">
-<img alt="Team Fixtures image" src="assets/team-fixtures-v2.png">
 </p>
 
 ### 5. Live Scores
@@ -53,7 +48,6 @@ Displays the live scores of matches in league requested or team requested
 Limit restricts number of matches displayed and is by default 5
 
 <p align="center">
-<img alt="Team Fixtures image" src="assets/live-league-v2.png">
 </p>
 
 ### 6. Invite
@@ -62,7 +56,6 @@ Sends the URL to invite bot into servers as a _Direct Message_
 **usage:** `.invite`
 
 <p align="center">
-<img alt="Invite Command image" src="assets/invite-command-v2.png">
 </p>
  
  # League Codes
